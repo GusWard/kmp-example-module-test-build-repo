@@ -1,0 +1,6 @@
+[submodule "HeaderTestModule/src"]
+	path = HeaderTestModule/src
+	url = git@github.com:GusWard/HeaderTestModule.git
+[submodule "KMPExampleModule/src"]
+	path = KMPExampleModule/src
+	url = git@github.com:GusWard/KMPExampleModule.git
